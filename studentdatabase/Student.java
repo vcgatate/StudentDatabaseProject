@@ -39,7 +39,6 @@ public class Student {
 	}
 	
 	// Enroll n courses
-	
 	public void enroll()
 	{
 		do {
@@ -66,6 +65,7 @@ public class Student {
 		System.out.println("balance is " + balance);
 	}
 	
+	//view balance amount to pay
 	public void payTuitionAmount()
 	{
 		System.out.println("enter payment");
